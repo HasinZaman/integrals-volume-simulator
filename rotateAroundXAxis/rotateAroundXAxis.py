@@ -7,12 +7,12 @@ circles = None
 def equation(x):
 	#return math.pow(10*x,0.5)
 
-	# if x >= 5:
-	# 	return -1*math.pow(x-5,2)+5
-	# else:
-	# 	return x
+	 if x >= 5:
+	 	return -1*math.pow(x-5,2)+5
+	 else:
+	 	return x
 
-	return 1/(x-5)
+	#return 1/(x-5)
 
 #draws circle cross section for start pos to end pos
 def create3DModel(app,start,end):
