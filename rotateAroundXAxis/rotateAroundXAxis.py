@@ -5,14 +5,7 @@ circles = None
 
 #equation gets gets the value of function at a point
 def equation(x):
-	#return math.pow(10*x,0.5)
-
-	 if x >= 5:
-	 	return -1*math.pow(x-5,2)+5
-	 else:
-	 	return x
-
-	#return 1/(x-5)
+	return math.pow(x,3)
 
 #draws circle cross section for start pos to end pos
 def create3DModel(app,start,end):
@@ -79,7 +72,7 @@ def run(context):
 		app = adsk.core.Application.get()
 
 		#creates the 3d model from the starting pos to end pos
-		create3DModel(app,0,10)
+		create3DModel(app,0,5)
 
 	except Exception as e:
 		if ui:
