@@ -20,18 +20,18 @@ First downlaod and extract the file
 
 Click on add-ins
 
-!(https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/1.PNG)
-(https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/2.PNG)
-(https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/3.PNG)
+![step 1 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/1.PNG)
+![step 2 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/2.PNG)
+![step 3 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/3.PNG)
 
 
 Add the script location
 *NOTE*: Only one python file can be in a folder at an instance
 
-(https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/4.PNG)
-(https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/5.PNG)
-(https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/6.PNG)
-(https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/7.PNG)
+![step 4 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/4.PNG)
+![step 5 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/5.PNG)
+![step 6 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/6.PNG)
+![step 7 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/7.PNG)
 
 ## 2.3 Running the script
 
