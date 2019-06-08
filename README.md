@@ -20,7 +20,7 @@ First downlaod and extract the file
 
 Click on add-ins
 
-https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/1.PNG
+![alt text](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/1.PNG)
 (https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/2.PNG)
 (https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/3.PNG)
 
