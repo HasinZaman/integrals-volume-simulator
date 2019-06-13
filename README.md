@@ -20,9 +20,9 @@ First downlaod and extract the file
 
 Click on add-ins
 
-![step 1 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/1.PNG)
-![step 2 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/2.PNG)
-![step 3 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/3.PNG)
+!["step 1 Image"](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/1.PNG)
+!["step 2 Image"](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/2.PNG)
+!["step 3 Image"](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/3.PNG)
 
 
 Add the script location
