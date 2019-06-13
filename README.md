@@ -37,7 +37,7 @@ Add the script location
 
 Open the the add-in window
 
-(https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/8.PNG)
+![step 8 Image](https://github.com/HasinZaman/integrals-volume-simulator/blob/master/readMeAssets/8.PNG)
 
 click on the script and press on the run button
 
